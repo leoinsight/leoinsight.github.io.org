@@ -1,10 +1,15 @@
 ## Leonardo Kwon
 
 ```markdown
-Java, Spring, JPA, MyBatis
-Oracle, MySql
-JavaScript, jQuery
-Python
+# Skills
+
+Programming Language — Java, Python
+
+Web — HTML/5, CSS/3, JavaScript, JSON, REST, jQuery
+
+Development Tools — Eclipse, Git, SVN
+
+Framework — Spring, JPA, MyBatis
 ```
 
 ### Markdown
