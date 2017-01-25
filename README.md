@@ -1,9 +1,11 @@
 ## Leonardo Kwon
 
+```markdown
 Java, Spring, JPA, MyBatis
 Oracle, MySql
 JavaScript, jQuery
 Python
+```
 
 ### Markdown
 
