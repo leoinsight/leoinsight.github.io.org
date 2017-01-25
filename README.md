@@ -1,8 +1,6 @@
-## Leonardo Kwon
+## Skills
 
 ```markdown
-# Skills
-
 Programming Language — Java, Python
 
 Web — HTML/5, CSS/3, JavaScript, JSON, REST, jQuery
