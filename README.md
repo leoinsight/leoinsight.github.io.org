@@ -11,7 +11,6 @@ Framework — Spring, JPA, MyBatis
 ```
 
 ## JPA
-
 ### @OneToMany
 
 Member to Phone
