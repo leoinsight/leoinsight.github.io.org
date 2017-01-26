@@ -54,9 +54,8 @@ public class Phone {
 
 ## Reference
 
-`
-[JDM's Blog](http://jdm.kr/blog/141)
-`
+- [JDM's Blog](http://jdm.kr/blog/141)
+
 
 ### Markdown
 
