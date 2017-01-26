@@ -1,6 +1,6 @@
 ## Skills
 
-```markdown
+```
 Programming Language — Java, Python
 
 Web — HTML/5, CSS/3, JavaScript, JSON, REST, jQuery
@@ -16,6 +16,7 @@ Framework — Spring, JPA, MyBatis
 Member to Phone
 - Member (seq, name)
 - Phone (seq, no, member_id)
+
 ```java
 @Entity
 public class Member {
