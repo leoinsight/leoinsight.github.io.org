@@ -12,7 +12,7 @@ Framework — Spring, JPA, MyBatis
 
 ## JPA
 
-@OneToMany
+### @OneToMany
 
 Member to Phone
 
