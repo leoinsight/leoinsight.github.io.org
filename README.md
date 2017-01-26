@@ -16,7 +16,7 @@ Framework — Spring, JPA, MyBatis
 Member to Phone
 - Member (seq, name)
 - Phone (seq, no, member_id)
-```
+```java
 @Entity
 public class Member {
 	
