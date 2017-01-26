@@ -10,6 +10,44 @@ Development Tools — Eclipse, Git, SVN
 Framework — Spring, JPA, MyBatis
 ```
 
+## JPA
+### @OneToMany
+Member to Phone
+- Member (seq, name)
+- Phone (seq, no, member_id)
+```
+@Entity
+public class Member {
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private int seq;
+	
+	private String name;
+
+	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
+	@JoinColumn(name="member_id")
+	private Collection<Phone> phones;
+
+	public Member() {}
+  (...)
+}
+
+@Entity
+public class Phone {
+
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private int seq;
+	private String no;
+	/*@Column(name="member_id")
+	private int memberId;*/
+	
+	public Phone() {}
+  (...)
+}
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
