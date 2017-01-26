@@ -52,7 +52,7 @@ public class Phone {
 }
 ```
 
-## Reference
+### Reference
 
 - [JDM's Blog](http://jdm.kr/blog/141)
 
