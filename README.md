@@ -11,9 +11,11 @@ Framework — Spring, JPA, MyBatis
 ```
 
 ## JPA
+
 @OneToMany
 
 Member to Phone
+
 - Member (seq, name)
 - Phone (seq, no, member_id)
 
