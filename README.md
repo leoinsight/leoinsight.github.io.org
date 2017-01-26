@@ -14,6 +14,8 @@ Framework — Spring, JPA, MyBatis
 
 ### @OneToMany
 
+> Reference [JDM's Blog](http://jdm.kr/blog/141)
+
 Member to Phone
 
 * Member (seq, name)
